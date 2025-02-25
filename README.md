@@ -1,1 +1,1 @@
-# ComfyUI-Wan-ZHO
+# TEST-Wan2.1
