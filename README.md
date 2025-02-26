@@ -4,7 +4,11 @@
 
 
 
-https://github.com/user-attachments/assets/13dffcc9-8417-438b-870d-d90a785740e7
+
+
+https://github.com/user-attachments/assets/3d6a052c-1d2c-4520-8b4e-2d29b16e5b48
+
+
 
 
 ## 使用说明 | Note
@@ -26,6 +30,8 @@ V1.0
 ## 更新日志
 
 - 20250226
+
+  更新演示视频
 
   V1.0 t2v-1.3b 文生视频
 
